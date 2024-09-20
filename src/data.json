@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "donnlaa",
+    "location": "Slovakia",
+    "image": "./profile.png",
+    "buttons": [
+      { "text": "Follow", "icon": "fab fa-instagram" },
+      { "text": "Share", "icon": "" }
+    ]
+  },
+  "socialLinks": [
+    { "url": "#", "icon": "fas fa-envelope" },
+    { "url": "#", "icon": "fab fa-tiktok" },
+    { "url": "#", "icon": "fab fa-youtube" },
+    { "url": "#", "icon": "fab fa-instagram" },
+    { "url": "#", "icon": "fab fa-github" }
+  ],
+  "rows": [
+    {
+      "image": "./cool.png",
+      "title": "beacons clone template!",
+      "description": "cool stuff"
+    },
+    {
+      "image": "./instagram.png",
+      "title": "instagram",
+      "description": "cool stuff",
+      "animation": "animate-jump"
+    },
+    {
+      "image": "./amazon.png",
+      "title": "desk setup items",
+      "description": "amazon store"
+    },
+    {
+      "image": "./youtube.png",
+      "title": "youtube",
+      "description": "vlogs and vlogs"
+    },
+    {
+      "image": "./code.png",
+      "title": "donnlaa.com",
+      "description": "portfolio website"
+    }
+  ]
+}
