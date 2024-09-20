@@ -10,3 +10,11 @@ Features
 	•	Fully Customizable: Content is fully customizable through a data.json file.
 	•	Tailwind CSS: Easily customizable and responsive using utility-first CSS with Tailwind.
 	•	Mobile-First Design: The layout is optimized for mobile devices, replicating Beacons AI’s style.
+Installation and Running
+
+	•	Clone repository
+	•	npm install
+	•	npm run dev
+ Customizable json file
+
+	•	Customize json file to change beacons
