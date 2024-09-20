@@ -17,4 +17,4 @@ Installation and Running
 	•	npm run dev
  Customizable json file
 
-	•	Customize json file to change beacons
+	•	Customize data.json file to change beacons
